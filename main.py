@@ -1,5 +1,5 @@
 import requests as rq
-
+#testing whether changes are reflecting
 url = "https://www.fast2sms.com/dev/bulkV2"
 
 querystring = {
